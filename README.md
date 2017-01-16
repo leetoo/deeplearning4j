@@ -83,3 +83,5 @@ Note, be sure to install the ND4J modules you need first, especially the backend
 3. Fork [the repository](https://github.com/deeplearning4j/deeplearning4j.git) on GitHub to start making your changes to the **master** branch (or branch off of it).
 4. Write a test that shows the bug was fixed or the feature works as expected.
 5. Send a pull request and bug us on Gitter until it gets merged and published. :)
+
+IMPORTANT HERE : https://deeplearning4j.org/spark-gpus
